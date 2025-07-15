@@ -27,7 +27,6 @@ Por ejemplo, si una comparación de contraseñas se realiza carácter por carác
     ```
     python attacker.py
     ```
-
 ---
 
 ## 🦾 Brute Force Attack (ataque de fuerza bruta)
@@ -70,7 +69,6 @@ Esto es útil para mostrar cómo las contraseñas débiles pueden romperse inclu
     ```
     python hash_cracker.py
     ```
-
 ---
 
 ## Keylogger Simulado (offline)
